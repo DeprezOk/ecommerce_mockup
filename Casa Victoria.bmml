@@ -1,0 +1,117 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1100" measuredH="585" mockupW="829" mockupH="574">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="271" y="11" w="829" h="574" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Casa%20Victoria%20Pinturerias%20-%20San%20Miguel%20de%20Tucum%E1n%0Ahttp%3A//www.casavictoria.com.ar</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="384" y="252" w="100" h="70" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6989903</color>
+        <href>3%20Producto%20seleccionado%26bm%3B3%20Producto%20seleccionado.bmml%26bm%3B3%20Producto%20seleccionado.bmml%26bm%3B3%20Producto%20seleccionado.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22113%2C241%2C213%2C311%22%20href%3D%223%2520Producto%2520seleccionado.bmml%22%20alt%3D%223%20Producto%20seleccionado%22%20id%3D%225%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="543" y="252" w="-1" h="-1" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>7317724</color>
+        <href>3%20Producto%20seleccionado%26bm%3B3%20Producto%20seleccionado.bmml%26bm%3B3%20Producto%20seleccionado.bmml%26bm%3B3%20Producto%20seleccionado.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22272%2C241%2C372%2C311%22%20href%3D%223%2520Producto%2520seleccionado.bmml%22%20alt%3D%223%20Producto%20seleccionado%22%20id%3D%226%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="731" y="252" w="-1" h="-1" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15110456</color>
+        <href>3%20Producto%20seleccionado%26bm%3B3%20Producto%20seleccionado.bmml%26bm%3B3%20Producto%20seleccionado.bmml%26bm%3B3%20Producto%20seleccionado.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22460%2C241%2C560%2C311%22%20href%3D%223%2520Producto%2520seleccionado.bmml%22%20alt%3D%223%20Producto%20seleccionado%22%20id%3D%227%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="915" y="252" w="-1" h="-1" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>12745632</color>
+        <href>3%20Producto%20seleccionado%26bm%3B3%20Producto%20seleccionado.bmml%26bm%3B3%20Producto%20seleccionado.bmml%26bm%3B3%20Producto%20seleccionado.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22644%2C241%2C744%2C311%22%20href%3D%223%2520Producto%2520seleccionado.bmml%22%20alt%3D%223%20Producto%20seleccionado%22%20id%3D%228%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Canvas" x="384" y="366" w="100" h="70" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>12745632</color>
+        <href>3%20Producto%20seleccionado%26bm%3B3%20Producto%20seleccionado.bmml%26bm%3B3%20Producto%20seleccionado.bmml%26bm%3B3%20Producto%20seleccionado.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22113%2C355%2C213%2C425%22%20href%3D%223%2520Producto%2520seleccionado.bmml%22%20alt%3D%223%20Producto%20seleccionado%22%20id%3D%229%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Canvas" x="543" y="366" w="-1" h="-1" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6989903</color>
+        <href>3%20Producto%20seleccionado%26bm%3B3%20Producto%20seleccionado.bmml%26bm%3B3%20Producto%20seleccionado.bmml%26bm%3B3%20Producto%20seleccionado.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22272%2C355%2C372%2C425%22%20href%3D%223%2520Producto%2520seleccionado.bmml%22%20alt%3D%223%20Producto%20seleccionado%22%20id%3D%2210%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="731" y="366" w="-1" h="-1" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>7317724</color>
+        <href>3%20Producto%20seleccionado%26bm%3B3%20Producto%20seleccionado.bmml%26bm%3B3%20Producto%20seleccionado.bmml%26bm%3B3%20Producto%20seleccionado.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22460%2C355%2C560%2C425%22%20href%3D%223%2520Producto%2520seleccionado.bmml%22%20alt%3D%223%20Producto%20seleccionado%22%20id%3D%2211%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Canvas" x="915" y="366" w="-1" h="-1" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15110456</color>
+        <href>3%20Producto%20seleccionado%26bm%3B3%20Producto%20seleccionado.bmml%26bm%3B3%20Producto%20seleccionado.bmml%26bm%3B3%20Producto%20seleccionado.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22644%2C355%2C744%2C425%22%20href%3D%223%2520Producto%2520seleccionado.bmml%22%20alt%3D%223%20Producto%20seleccionado%22%20id%3D%2212%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Canvas" x="384" y="483" w="100" h="70" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6989903</color>
+        <href>3%20Producto%20seleccionado%26bm%3B3%20Producto%20seleccionado.bmml%26bm%3B3%20Producto%20seleccionado.bmml%26bm%3B3%20Producto%20seleccionado.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22113%2C472%2C213%2C542%22%20href%3D%223%2520Producto%2520seleccionado.bmml%22%20alt%3D%223%20Producto%20seleccionado%22%20id%3D%2213%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Canvas" x="543" y="483" w="-1" h="-1" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>7317724</color>
+        <href>3%20Producto%20seleccionado%26bm%3B3%20Producto%20seleccionado.bmml%26bm%3B3%20Producto%20seleccionado.bmml%26bm%3B3%20Producto%20seleccionado.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22272%2C472%2C372%2C542%22%20href%3D%223%2520Producto%2520seleccionado.bmml%22%20alt%3D%223%20Producto%20seleccionado%22%20id%3D%2214%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Canvas" x="731" y="483" w="-1" h="-1" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15110456</color>
+        <href>3%20Producto%20seleccionado%26bm%3B3%20Producto%20seleccionado.bmml%26bm%3B3%20Producto%20seleccionado.bmml%26bm%3B3%20Producto%20seleccionado.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22460%2C472%2C560%2C542%22%20href%3D%223%2520Producto%2520seleccionado.bmml%22%20alt%3D%223%20Producto%20seleccionado%22%20id%3D%2215%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Canvas" x="915" y="483" w="-1" h="-1" measuredW="100" measuredH="70" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>12745632</color>
+        <href>3%20Producto%20seleccionado%26bm%3B3%20Producto%20seleccionado.bmml%26bm%3B3%20Producto%20seleccionado.bmml%26bm%3B3%20Producto%20seleccionado.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22644%2C472%2C744%2C542%22%20href%3D%223%2520Producto%2520seleccionado.bmml%22%20alt%3D%223%20Producto%20seleccionado%22%20id%3D%2216%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="476" y="110" w="418" h="-1" measuredW="405" measuredH="36" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>28</size>
+        <state>up</state>
+        <text>Compr%E1%20todo%2C%20sin%20salir%20de%20casa</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::SearchBox" x="557" y="153" w="256" h="-1" measuredW="241" measuredH="41" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <href>2%20resultados%20de%20busqueda%26bm%3B2%20resultados%20de%20busqueda.bmml%26bm%3B2%20resultados%20de%20busqueda.bmml%26bm%3B2%20resultados%20de%20busqueda.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22286%2C142%2C542%2C183%22%20href%3D%222%2520resultados%2520de%2520busqueda.bmml%22%20alt%3D%222%20resultados%20de%20busqueda%22%20id%3D%2219%22/%3E</map>
+        <size>28</size>
+        <text>%BFQu%E9%20necesit%E1s%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Canvas" x="384" y="83" w="631" h="153" measuredW="100" measuredH="70" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <borderStyle>roundedSolid</borderStyle>
+        <color>7317724</color>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

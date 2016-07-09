@@ -1,0 +1,78 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1100" measuredH="585" mockupW="829" mockupH="574">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="271" y="11" w="829" h="574" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Casa%20Victoria%20Pinturerias%20-%20San%20Miguel%20de%20Tucum%E1n%0Ahttp%3A//www.casavictoria.com.ar</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="476" y="110" w="418" h="-1" measuredW="405" measuredH="36" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>28</size>
+        <state>up</state>
+        <text>Compr%E1%20todo%2C%20sin%20salir%20de%20casa</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="384" y="83" w="631" h="153" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <borderStyle>roundedSolid</borderStyle>
+        <color>7317724</color>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::SearchBox" x="557" y="153" w="256" h="-1" measuredW="241" measuredH="41" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <href>2%20resultados%20de%20busqueda%26bm%3B2%20resultados%20de%20busqueda.bmml%26bm%3B2%20resultados%20de%20busqueda.bmml%26bm%3B2%20resultados%20de%20busqueda.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22286%2C142%2C542%2C183%22%20href%3D%222%2520resultados%2520de%2520busqueda.bmml%22%20alt%3D%222%20resultados%20de%20busqueda%22%20id%3D%223%22/%3E</map>
+        <size>28</size>
+        <text>%BFQu%E9%20necesit%E1s%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="384" y="245" w="296" h="247" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <color>6989903</color>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="690" y="245" w="-1" h="-1" measuredW="160" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>Martillo%20ACME</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="690" y="282" w="-1" h="-1" measuredW="84" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>%24%20100%B0%B0</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="690" y="321" w="-1" h="-1" measuredW="104" measuredH="32" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>Cantidad</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::NumericStepper" x="801" y="325" w="-1" h="-1" measuredW="39" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="690" y="375" w="-1" h="-1" measuredW="139" measuredH="32" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>15658734</color>
+        <icon>CartIcon%7Cmedium</icon>
+        <menuIcon>false</menuIcon>
+        <size>20</size>
+        <text>Comprar</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
